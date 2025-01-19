@@ -6,7 +6,7 @@ The Metropolis Hastings algorithm is a Markov Chain Monte Carlo (MCMC) method us
 
 The normal approximation proposal is a proposal distribution that approximates the target distribution using a normal distribution. The normal approximation proposal is used to generate new states in the Metropolis Hastings algorithm.
 
-The sampler was developed as part of a course project for the "Bayesian Statistics" course at Utrecht University. Its functionality is demonstrated by applying it to integrate a Bayesian Data Integration approach. The full example can be reproduced using the provided scripts. For more information, see the [project report](docs/main.pdf).
+The sampler was developed as part of a course project for the "Bayesian Statistics" course at Utrecht University. Its functionality is demonstrated by applying it to integrate a Bayesian Data Integration approach. The full example can be reproduced using the provided scripts and the [reproducible evironment file](renv.lock). For more information, see the [project report](docs/main.pdf).
 
 ## Installation
 
@@ -14,4 +14,4 @@ To install the Metropolis Hastings sampler using a normal approximation proposal
 
 ## Citation
 
-The citation for this code can be found in the [CITATION.bib](CITATION.bib) file within this repository.
+The citation for this code and report can be found in the [CITATION.bib](CITATION.bib) file within this repository.
