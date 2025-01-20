@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Metwaly
+  given-names: Florian
+orcid: https://orcid.org/0009-0001-8357-7870
+title: Bayesian Data Integration using Metropolis Sampler with a Normal Approximation of the Posterior Distribution
+version: v1.0.0
+date-released: 2025-01-19
