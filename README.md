@@ -14,4 +14,4 @@ To install the Metropolis Hastings sampler using a normal approximation proposal
 
 ## Citation
 
-The citation for this code and report can be found in the [CITATION.bib](CITATION.bib) file within this repository.
+The citation for this code and report can be found in the [CITATION.cff](CITATION.cff) file within this repository.
